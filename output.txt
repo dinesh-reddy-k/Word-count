@@ -1,0 +1,16 @@
+There are  12 words with length 1
+There are  25 words with length 2
+There are  22 words with length 3
+There are  22 words with length 4
+There are  12 words with length 5
+There are  11 words with length 6
+There are  14 words with length 7
+There are  4 words with length 8
+There are  5 words with length 9
+There are  4 words with length 10
+There are  8 words with length 11
+There are  1 words with length 12
+There are  1 words with length 13
+There are  1 words with length 15
+There are  25 Special Characters in file
+There are 142 Total words in the file
